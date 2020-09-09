@@ -1,0 +1,23 @@
+.table-action-icon {
+    display: block;
+    text-align: center;
+    font-size: 21px;
+}
+
+#update-icon {
+    color: #b1ac0d;
+}
+
+#delete-icon {
+    color: #ec5b5b;
+}
+
+.table-action-txt {
+    text-align: center;
+}
+
+.card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
